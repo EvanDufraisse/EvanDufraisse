@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <p align="center">
+    🐦 <a href="https://x.com/DufraisseEvan">Follow me on X</a> • 
+    🤗 <a href="https://huggingface.co/EvanD">Hugging Face</a> • 
+    💻 <a href="https://evandufraisse.github.io/">Blog</a> • 
+  </p>
+</div>
+<br/>
 
-<!--
-**EvanDufraisse/EvanDufraisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Evan!👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a research engineer at CEA List, working on NLP, deep learning, mostly around large language models research and their applications.

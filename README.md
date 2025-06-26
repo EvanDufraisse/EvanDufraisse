@@ -9,4 +9,4 @@
 
 Hi, I'm Evan!👋
 
-I’m a research engineer at CEA List, working on NLP, deep learning, mostly around large language models research and their applications.
+I’m a research engineer at MBZUAI, working on NLP, deep learning, mostly around large language models research and their applications.
